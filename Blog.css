@@ -1,4 +1,4 @@
-
+/* tobys first comment */
 body{
     margin:0; /* Allow sections to go up to the very edge of the page */
     font-family: Calibri, sans-serif; /* Changes the font for the entire page to Calibri */
@@ -47,9 +47,9 @@ article, footer{
     /* Leave vertical space between articles */
     margin-bottom: 1.5em;
 
-    /* Empty space INSIDE the element 
+    /* Empty space INSIDE the element
     Values are ordered: Top, Right, Bottom, Left */
-    padding: 0 2em 0.2em 2em; 
+    padding: 0 2em 0.2em 2em;
 
     background-color: #F5F5F5; /* light grey */
 
@@ -140,10 +140,10 @@ footer{
     font-size: 1.2em;
     text-align: center;
 
-    /* Properties given different values later in the document override 
+    /* Properties given different values later in the document override
     the previous value, so the footer will use these values even though
     they were already set differently earlier */
-    padding: 0.5em; 
+    padding: 0.5em;
     margin-bottom:1em;
 }
 
